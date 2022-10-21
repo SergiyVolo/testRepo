@@ -19,6 +19,7 @@ public class SauceDemoLoginTest {
 		Driver.getDriver().get(PropertiesReader.getProperty("url"));
 		sauceDemoPage.userName.sendKeys("standard_user");
 		sauceDemoPage.password.sendKeys("secret_sauce");
+		//comment 1
 		sauceDemoPage.login.click();
 
 	}
