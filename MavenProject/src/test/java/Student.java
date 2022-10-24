@@ -13,4 +13,9 @@ public class Student {
 		System.out.println("Student is studying");
 
 	}
+	
+	public void m2() {
+		System.out.println("Student passed the test");
+		
+	}
 }
