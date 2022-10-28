@@ -8,6 +8,7 @@ Feature: Title of your feature
     And some other precondition
     When I complete action
     And some other action
+    #comment
     And yet another action
     Then I validate the outcomes
     And check more outcomes
@@ -16,6 +17,7 @@ Feature: Title of your feature
   Scenario Outline: Title of your scenario outline
     Given I want to write a step with <name>
     When I check for the <value> in step
+    #comment2 please resolve conflict
     Then I verify the <status> in step
 
     Examples: 
