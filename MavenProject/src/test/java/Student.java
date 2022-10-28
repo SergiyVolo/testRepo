@@ -3,6 +3,7 @@ public class Student {
 
 	public String name;
 	public int age;
+	public boolean isSmart;
 
 	Student(String name, int age) {
 		this.name = name;

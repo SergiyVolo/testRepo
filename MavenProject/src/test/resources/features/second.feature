@@ -9,6 +9,7 @@ Feature: Title of your feature
     When I complete action
     And some other action
     #comment
+    #it's a good comment:)
     And yet another action
     Then I validate the outcomes
     And check more outcomes
@@ -19,6 +20,7 @@ Feature: Title of your feature
     When I check for the <value> in step
     #comment2 please resolve conflict
     Then I verify the <status> in step
+    #conflict resolved
 
     Examples: 
       | name  | value | status  |

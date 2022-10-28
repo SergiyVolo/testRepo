@@ -7,6 +7,7 @@ public class Main {
 		System.out.println(student1.name);
 		student1.m1();
 		student1.m2();
+		student1.isSmart = true;
 
 	}
 
