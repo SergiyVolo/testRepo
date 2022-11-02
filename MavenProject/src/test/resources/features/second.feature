@@ -11,6 +11,7 @@ Feature: Title of your feature
     #comment
     #it's a good comment:)
     And yet another action
+    #addition comment
     Then I validate the outcomes
     And check more outcomes
 
