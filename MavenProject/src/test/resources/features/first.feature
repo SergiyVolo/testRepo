@@ -10,3 +10,5 @@ Feature: Just practicing
    #addition comment
     Then I validate the outcomes
     And check more outcomes
+#another comment
+#Sergiy's comment 11/01/2022

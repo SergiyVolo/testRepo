@@ -12,6 +12,7 @@ Feature: Title of your feature
     #it's a good comment:)
     And yet another action
     #addition comment
+    #11/01/2022
     Then I validate the outcomes
     And check more outcomes
 
