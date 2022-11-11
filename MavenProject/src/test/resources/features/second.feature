@@ -24,6 +24,7 @@ Feature: Title of your feature
     #comment2 please resolve conflict
     Then I verify the <status> in step
     #conflict resolved
+    #*******************
 
     Examples: 
       | name  | value | status  |
