@@ -6,6 +6,7 @@ Feature: Title of your feature
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
+    And Implement new step
     When I complete action
     And some other action
     #comment
